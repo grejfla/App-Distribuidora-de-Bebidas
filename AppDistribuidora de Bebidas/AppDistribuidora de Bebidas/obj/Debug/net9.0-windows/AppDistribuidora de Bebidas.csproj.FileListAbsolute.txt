@@ -1,0 +1,37 @@
+C:\Users\1084964\Documents\GitHub\AppAcademia\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\bin\Debug\net9.0-windows\AppDistribuidora de Bebidas.exe
+C:\Users\1084964\Documents\GitHub\AppAcademia\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\bin\Debug\net9.0-windows\AppDistribuidora de Bebidas.deps.json
+C:\Users\1084964\Documents\GitHub\AppAcademia\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\bin\Debug\net9.0-windows\AppDistribuidora de Bebidas.runtimeconfig.json
+C:\Users\1084964\Documents\GitHub\AppAcademia\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\bin\Debug\net9.0-windows\AppDistribuidora de Bebidas.dll
+C:\Users\1084964\Documents\GitHub\AppAcademia\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\bin\Debug\net9.0-windows\AppDistribuidora de Bebidas.pdb
+C:\Users\1084964\Documents\GitHub\AppAcademia\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora_de_Bebidas.Form1.resources
+C:\Users\1084964\Documents\GitHub\AppAcademia\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora_de_Bebidas.Properties.Resources.resources
+C:\Users\1084964\Documents\GitHub\AppAcademia\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora de Bebidas.csproj.GenerateResource.cache
+C:\Users\1084964\Documents\GitHub\AppAcademia\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora de Bebidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1084964\Documents\GitHub\AppAcademia\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora de Bebidas.AssemblyInfoInputs.cache
+C:\Users\1084964\Documents\GitHub\AppAcademia\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora de Bebidas.AssemblyInfo.cs
+C:\Users\1084964\Documents\GitHub\AppAcademia\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora de Bebidas.csproj.CoreCompileInputs.cache
+C:\Users\1084964\Documents\GitHub\AppAcademia\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora de Bebidas.sourcelink.json
+C:\Users\1084964\Documents\GitHub\AppAcademia\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora de Bebidas.dll
+C:\Users\1084964\Documents\GitHub\AppAcademia\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\refint\AppDistribuidora de Bebidas.dll
+C:\Users\1084964\Documents\GitHub\AppAcademia\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora de Bebidas.pdb
+C:\Users\1084964\Documents\GitHub\AppAcademia\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora de Bebidas.genruntimeconfig.cache
+C:\Users\1084964\Documents\GitHub\AppAcademia\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\ref\AppDistribuidora de Bebidas.dll
+C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\bin\Debug\net9.0-windows\AppDistribuidora de Bebidas.exe
+C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\bin\Debug\net9.0-windows\AppDistribuidora de Bebidas.deps.json
+C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\bin\Debug\net9.0-windows\AppDistribuidora de Bebidas.runtimeconfig.json
+C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\bin\Debug\net9.0-windows\AppDistribuidora de Bebidas.dll
+C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\bin\Debug\net9.0-windows\AppDistribuidora de Bebidas.pdb
+C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora_de_Bebidas.frmCadastro.resources
+C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora_de_Bebidas.frmLogin.resources
+C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora_de_Bebidas.Properties.Resources.resources
+C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora de Bebidas.csproj.GenerateResource.cache
+C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora de Bebidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora de Bebidas.AssemblyInfoInputs.cache
+C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora de Bebidas.AssemblyInfo.cs
+C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora de Bebidas.csproj.CoreCompileInputs.cache
+C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora de Bebidas.dll
+C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\refint\AppDistribuidora de Bebidas.dll
+C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora de Bebidas.pdb
+C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora de Bebidas.genruntimeconfig.cache
+C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\ref\AppDistribuidora de Bebidas.dll
+C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora_de_Bebidas.frmMenuPrincipal.resources
