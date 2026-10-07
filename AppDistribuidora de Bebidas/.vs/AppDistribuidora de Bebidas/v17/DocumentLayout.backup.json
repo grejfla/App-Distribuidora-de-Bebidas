@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\appdistribuidora de bebidas\\frmtarefadoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|solutionrelative:appdistribuidora de bebidas\\frmtarefadoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|c:\\users\\1084964\\documents\\github\\app-distribuidora-de-bebidas\\appdistribuidora de bebidas\\appdistribuidora de bebidas\\frmtarefadoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|solutionrelative:appdistribuidora de bebidas\\frmtarefadoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|c:\\users\\1084964\\documents\\github\\app-distribuidora-de-bebidas\\appdistribuidora de bebidas\\appdistribuidora de bebidas\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|solutionrelative:appdistribuidora de bebidas\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|c:\\users\\1084964\\documents\\github\\app-distribuidora-de-bebidas\\appdistribuidora de bebidas\\appdistribuidora de bebidas\\frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|solutionrelative:appdistribuidora de bebidas\\frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\appdistribuidora de bebidas\\frmcadastrodeprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|solutionrelative:appdistribuidora de bebidas\\frmcadastrodeprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|c:\\users\\1084964\\documents\\github\\app-distribuidora-de-bebidas\\appdistribuidora de bebidas\\appdistribuidora de bebidas\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|solutionrelative:appdistribuidora de bebidas\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\appdistribuidora de bebidas\\frmdadosdeprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|solutionrelative:appdistribuidora de bebidas\\frmdadosdeprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|c:\\users\\1084964\\documents\\github\\app-distribuidora-de-bebidas\\appdistribuidora de bebidas\\appdistribuidora de bebidas\\frmcadastrodeprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|solutionrelative:appdistribuidora de bebidas\\frmcadastrodeprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\appdistribuidora de bebidas\\frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|solutionrelative:appdistribuidora de bebidas\\frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\appdistribuidora de bebidas\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|solutionrelative:appdistribuidora de bebidas\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\appdistribuidora de bebidas\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|solutionrelative:appdistribuidora de bebidas\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|c:\\users\\1084964\\documents\\github\\app-distribuidora-de-bebidas\\appdistribuidora de bebidas\\appdistribuidora de bebidas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF8A111-DD14-4B28-94CC-058DCE0F51B5}|AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas.csproj|solutionrelative:appdistribuidora de bebidas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmTarefaDoProduto.cs",
+              "DocumentMoniker": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmTarefaDoProduto.cs",
+              "RelativeDocumentMoniker": "AppDistribuidora de Bebidas\\frmTarefaDoProduto.cs",
+              "ToolTip": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmTarefaDoProduto.cs",
+              "RelativeToolTip": "AppDistribuidora de Bebidas\\frmTarefaDoProduto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T23:38:57.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCadastroDeProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmCadastroDeProdutos.cs",
+              "RelativeDocumentMoniker": "AppDistribuidora de Bebidas\\frmCadastroDeProdutos.cs",
+              "ToolTip": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmCadastroDeProdutos.cs",
+              "RelativeToolTip": "AppDistribuidora de Bebidas\\frmCadastroDeProdutos.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:58:14.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDadosDeProdutos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmDadosDeProdutos.cs",
+              "RelativeDocumentMoniker": "AppDistribuidora de Bebidas\\frmDadosDeProdutos.cs",
+              "ToolTip": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmDadosDeProdutos.cs [Projeto]",
+              "RelativeToolTip": "AppDistribuidora de Bebidas\\frmDadosDeProdutos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T00:33:23.062Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "AppDistribuidora de Bebidas\\frmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmMenuPrincipal.cs",
+              "RelativeToolTip": "AppDistribuidora de Bebidas\\frmMenuPrincipal.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T22:31:20.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmCadastroDeProdutos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmCadastroDeProdutos.cs",
+              "RelativeDocumentMoniker": "AppDistribuidora de Bebidas\\frmCadastroDeProdutos.cs",
+              "ToolTip": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmCadastroDeProdutos.cs [Projeto]",
+              "RelativeToolTip": "AppDistribuidora de Bebidas\\frmCadastroDeProdutos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T00:31:08.836Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCadastro.cs",
+              "DocumentMoniker": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmCadastro.cs",
+              "RelativeDocumentMoniker": "AppDistribuidora de Bebidas\\frmCadastro.cs",
+              "ToolTip": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmCadastro.cs",
+              "RelativeToolTip": "AppDistribuidora de Bebidas\\frmCadastro.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T00:39:23.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmLogin.cs",
+              "RelativeDocumentMoniker": "AppDistribuidora de Bebidas\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmLogin.cs",
+              "RelativeToolTip": "AppDistribuidora de Bebidas\\frmLogin.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T23:01:46.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmTarefaDoProduto.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmTarefaDoProduto.cs",
+              "RelativeDocumentMoniker": "AppDistribuidora de Bebidas\\frmTarefaDoProduto.cs",
+              "ToolTip": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmTarefaDoProduto.cs [Projeto]",
+              "RelativeToolTip": "AppDistribuidora de Bebidas\\frmTarefaDoProduto.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T00:37:25.621Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMenuPrincipal.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "AppDistribuidora de Bebidas\\frmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmMenuPrincipal.cs [Projeto]",
+              "RelativeToolTip": "AppDistribuidora de Bebidas\\frmMenuPrincipal.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T00:21:49.253Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmLogin.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmLogin.cs",
+              "RelativeDocumentMoniker": "AppDistribuidora de Bebidas\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmLogin.cs [Projeto]",
+              "RelativeToolTip": "AppDistribuidora de Bebidas\\frmLogin.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T22:45:15.045Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmCadastro.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmCadastro.cs",
+              "RelativeDocumentMoniker": "AppDistribuidora de Bebidas\\frmCadastro.cs",
+              "ToolTip": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\frmCadastro.cs [Projeto]",
+              "RelativeToolTip": "AppDistribuidora de Bebidas\\frmCadastro.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T00:11:21.516Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\Program.cs",
+              "RelativeDocumentMoniker": "AppDistribuidora de Bebidas\\Program.cs",
+              "ToolTip": "C:\\Users\\1084964\\Documents\\GitHub\\App-Distribuidora-de-Bebidas\\AppDistribuidora de Bebidas\\AppDistribuidora de Bebidas\\Program.cs",
+              "RelativeToolTip": "AppDistribuidora de Bebidas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T22:44:49.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

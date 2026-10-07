@@ -21,5 +21,10 @@ namespace AppDistribuidora_de_Bebidas
         {
             this.Visible = false;
         }
+
+        private void frmCadastro_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

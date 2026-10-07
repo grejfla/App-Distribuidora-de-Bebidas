@@ -28,91 +28,154 @@
         /// </summary>
         private void InitializeComponent()
         {
-            lblCadastrousuario = new Label();
-            lblSenhaCadastro = new Label();
+            lbltitulo = new Label();
+            lblEmailusuario = new Label();
             txtNomeUsuario = new TextBox();
             statusStrip1 = new StatusStrip();
-            txtsenha = new TextBox();
-            button1 = new Button();
+            lblNomeUsuario = new Label();
+            lblSenhausuario = new Label();
+            txtsenhausuario = new TextBox();
+            dataGridView1 = new DataGridView();
+            tableLayoutPanel1 = new TableLayoutPanel();
+            panel1 = new Panel();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            tableLayoutPanel1.SuspendLayout();
+            panel1.SuspendLayout();
             SuspendLayout();
             // 
-            // lblCadastrousuario
+            // lbltitulo
             // 
-            lblCadastrousuario.AutoSize = true;
-            lblCadastrousuario.Font = new Font("Tahoma", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lblCadastrousuario.Location = new Point(398, 88);
-            lblCadastrousuario.Name = "lblCadastrousuario";
-            lblCadastrousuario.Size = new Size(204, 19);
-            lblCadastrousuario.TabIndex = 0;
-            lblCadastrousuario.Text = "Escolha o Nome de Usuário";
+            lbltitulo.AutoSize = true;
+            lbltitulo.Font = new Font("Tahoma", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lbltitulo.Location = new Point(249, 0);
+            lbltitulo.Name = "lbltitulo";
+            lbltitulo.Size = new Size(203, 25);
+            lbltitulo.TabIndex = 0;
+            lbltitulo.Text = "Cadastrar Usuário";
             // 
-            // lblSenhaCadastro
+            // lblEmailusuario
             // 
-            lblSenhaCadastro.AutoSize = true;
-            lblSenhaCadastro.Font = new Font("Tahoma", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lblSenhaCadastro.Location = new Point(422, 163);
-            lblSenhaCadastro.Name = "lblSenhaCadastro";
-            lblSenhaCadastro.Size = new Size(123, 19);
-            lblSenhaCadastro.TabIndex = 1;
-            lblSenhaCadastro.Text = "Escolha a Senha";
+            lblEmailusuario.AutoSize = true;
+            lblEmailusuario.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblEmailusuario.Location = new Point(-5, 44);
+            lblEmailusuario.Name = "lblEmailusuario";
+            lblEmailusuario.Size = new Size(0, 19);
+            lblEmailusuario.TabIndex = 1;
             // 
             // txtNomeUsuario
             // 
-            txtNomeUsuario.Location = new Point(398, 118);
+            txtNomeUsuario.Location = new Point(-66, 17);
             txtNomeUsuario.Name = "txtNomeUsuario";
             txtNomeUsuario.Size = new Size(210, 23);
             txtNomeUsuario.TabIndex = 2;
             // 
             // statusStrip1
             // 
-            statusStrip1.Location = new Point(0, 428);
+            statusStrip1.Location = new Point(0, 470);
             statusStrip1.Name = "statusStrip1";
             statusStrip1.Size = new Size(739, 22);
             statusStrip1.TabIndex = 3;
             statusStrip1.Text = "statusStrip1";
             // 
-            // txtsenha
+            // lblNomeUsuario
             // 
-            txtsenha.Location = new Point(425, 199);
-            txtsenha.Name = "txtsenha";
-            txtsenha.Size = new Size(177, 23);
-            txtsenha.TabIndex = 4;
+            lblNomeUsuario.AutoSize = true;
+            lblNomeUsuario.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblNomeUsuario.Location = new Point(0, -3);
+            lblNomeUsuario.Name = "lblNomeUsuario";
+            lblNomeUsuario.Size = new Size(127, 19);
+            lblNomeUsuario.TabIndex = 6;
+            lblNomeUsuario.Text = "Nome usuário:";
             // 
-            // button1
+            // lblSenhausuario
             // 
-            button1.Font = new Font("Tahoma", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            button1.Location = new Point(425, 249);
-            button1.Name = "button1";
-            button1.Size = new Size(177, 32);
-            button1.TabIndex = 5;
-            button1.Text = "Confirmar Cadastro";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            lblSenhausuario.AutoSize = true;
+            lblSenhausuario.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblSenhausuario.Location = new Point(3, 43);
+            lblSenhausuario.Name = "lblSenhausuario";
+            lblSenhausuario.Size = new Size(130, 19);
+            lblSenhausuario.TabIndex = 7;
+            lblSenhausuario.Text = "Senha usuário:";
+            // 
+            // txtsenhausuario
+            // 
+            txtsenhausuario.Location = new Point(0, 65);
+            txtsenhausuario.Name = "txtsenhausuario";
+            txtsenhausuario.Size = new Size(214, 23);
+            txtsenhausuario.TabIndex = 8;
+            // 
+            // dataGridView1
+            // 
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Dock = DockStyle.Fill;
+            dataGridView1.Location = new Point(249, 237);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.Size = new Size(240, 111);
+            dataGridView1.TabIndex = 9;
+            // 
+            // tableLayoutPanel1
+            // 
+            tableLayoutPanel1.ColumnCount = 3;
+            tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 33.3333321F));
+            tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 33.3333359F));
+            tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 33.3333359F));
+            tableLayoutPanel1.Controls.Add(lbltitulo, 1, 0);
+            tableLayoutPanel1.Controls.Add(dataGridView1, 1, 2);
+            tableLayoutPanel1.Controls.Add(panel1, 1, 1);
+            tableLayoutPanel1.Dock = DockStyle.Fill;
+            tableLayoutPanel1.Location = new Point(0, 0);
+            tableLayoutPanel1.Name = "tableLayoutPanel1";
+            tableLayoutPanel1.RowCount = 4;
+            tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 20F));
+            tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 20F));
+            tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 20F));
+            tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 20F));
+            tableLayoutPanel1.Size = new Size(739, 470);
+            tableLayoutPanel1.TabIndex = 10;
+            // 
+            // panel1
+            // 
+            panel1.Controls.Add(lblNomeUsuario);
+            panel1.Controls.Add(txtNomeUsuario);
+            panel1.Controls.Add(txtsenhausuario);
+            panel1.Controls.Add(lblEmailusuario);
+            panel1.Controls.Add(lblSenhausuario);
+            panel1.Dock = DockStyle.Fill;
+            panel1.Location = new Point(249, 120);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(240, 111);
+            panel1.TabIndex = 1;
             // 
             // frmCadastro
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(739, 450);
-            Controls.Add(button1);
-            Controls.Add(txtsenha);
+            ClientSize = new Size(739, 492);
+            Controls.Add(tableLayoutPanel1);
             Controls.Add(statusStrip1);
-            Controls.Add(txtNomeUsuario);
-            Controls.Add(lblSenhaCadastro);
-            Controls.Add(lblCadastrousuario);
             Name = "frmCadastro";
             Text = "frmCadastro";
+            Load += frmCadastro_Load;
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            tableLayoutPanel1.ResumeLayout(false);
+            tableLayoutPanel1.PerformLayout();
+            panel1.ResumeLayout(false);
+            panel1.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private Label lblCadastrousuario;
-        private Label lblSenhaCadastro;
+        private Label lbltitulo;
+        private Label lblEmailusuario;
         private TextBox txtNomeUsuario;
         private StatusStrip statusStrip1;
-        private TextBox txtsenha;
-        private Button button1;
+        private Label lblNomeUsuario;
+        private Label lblSenhausuario;
+        private TextBox txtsenhausuario;
+        private DataGridView dataGridView1;
+        private TableLayoutPanel tableLayoutPanel1;
+        private Panel panel1;
     }
 }

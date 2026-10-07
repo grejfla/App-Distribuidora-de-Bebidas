@@ -35,3 +35,4 @@ C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora 
 C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora de Bebidas.genruntimeconfig.cache
 C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\ref\AppDistribuidora de Bebidas.dll
 C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora_de_Bebidas.frmMenuPrincipal.resources
+C:\Users\1084964\Documents\GitHub\App-Distribuidora-de-Bebidas\AppDistribuidora de Bebidas\AppDistribuidora de Bebidas\obj\Debug\net9.0-windows\AppDistribuidora de Bebidas.sourcelink.json

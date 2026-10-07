@@ -31,14 +31,20 @@ namespace AppDistribuidora_de_Bebidas
 
             if (txtUsuario.Text == usuario && txtSenha.Text == senha)
             {
-                MessageBox.Show("Logado com sucesso!");
                 this.Visible = false;
+                MessageBox.Show("Logado com sucesso!");
                 fm.ShowDialog();
             }
             else
             {
-                MessageBox.Show("Erro nome de usuario  ou erro de senha tente de novo");            }
-    
+                MessageBox.Show("Erro nome de usuario  ou erro de senha tente de novo");
+            }
+
+        }
+
+        private void btnSair_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

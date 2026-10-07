@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppDistribuidora de Bebidas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78be60c6515defb8faf59ad9e2d96174fb89b51d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppDistribuidora de Bebidas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppDistribuidora de Bebidas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

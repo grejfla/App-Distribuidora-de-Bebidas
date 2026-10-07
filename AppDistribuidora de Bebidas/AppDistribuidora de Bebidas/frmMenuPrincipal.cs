@@ -16,5 +16,29 @@ namespace AppDistribuidora_de_Bebidas
         {
             InitializeComponent();
         }
+
+        private void frmMenuPrincipal_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void btnCadastrarProduto_Click(object sender, EventArgs e)
+        {
+            frmCadastroDeProdutos fcp = new frmCadastroDeProdutos();
+            fcp.ShowDialog();
+        }
+
+        private void btnDadosdoProduto_Click(object sender, EventArgs e)
+        {
+            frmDadosDeProdutos fdp = new frmDadosDeProdutos();
+            fdp.ShowDialog();
+        }
+
+        private void btnTarefadoProduto_Click(object sender, EventArgs e)
+        {
+            frmTarefaDoProduto frmTarefaDo = new frmTarefaDoProduto();
+            frmTarefaDo.ShowDialog();
+        }
     }
+
 }

@@ -38,6 +38,7 @@
             lblUsuario = new Label();
             lblSenha = new Label();
             btnCadastrarUsuario = new Button();
+            btnSair = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -60,18 +61,18 @@
             // 
             // txtSenha
             // 
-            txtSenha.Location = new Point(497, 227);
+            txtSenha.Location = new Point(497, 211);
             txtSenha.Name = "txtSenha";
             txtSenha.Size = new Size(100, 23);
             txtSenha.TabIndex = 2;
             // 
             // btnEntrar
             // 
-            btnEntrar.Location = new Point(497, 300);
+            btnEntrar.Location = new Point(511, 271);
             btnEntrar.Name = "btnEntrar";
             btnEntrar.Size = new Size(86, 23);
             btnEntrar.TabIndex = 3;
-            btnEntrar.Text = "ENTRAR";
+            btnEntrar.Text = "Entrar";
             btnEntrar.UseVisualStyleBackColor = true;
             btnEntrar.Click += btnEntrar_Click;
             // 
@@ -98,7 +99,7 @@
             // 
             lblSenha.AutoSize = true;
             lblSenha.Font = new Font("Tahoma", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lblSenha.Location = new Point(509, 210);
+            lblSenha.Location = new Point(503, 194);
             lblSenha.Name = "lblSenha";
             lblSenha.Size = new Size(41, 14);
             lblSenha.TabIndex = 6;
@@ -106,7 +107,7 @@
             // 
             // btnCadastrarUsuario
             // 
-            btnCadastrarUsuario.Location = new Point(477, 351);
+            btnCadastrarUsuario.Location = new Point(616, 271);
             btnCadastrarUsuario.Name = "btnCadastrarUsuario";
             btnCadastrarUsuario.Size = new Size(130, 23);
             btnCadastrarUsuario.TabIndex = 7;
@@ -114,11 +115,22 @@
             btnCadastrarUsuario.UseVisualStyleBackColor = true;
             btnCadastrarUsuario.Click += btnCadastrarUsuario_Click;
             // 
+            // btnSair
+            // 
+            btnSair.Location = new Point(413, 271);
+            btnSair.Name = "btnSair";
+            btnSair.Size = new Size(75, 23);
+            btnSair.TabIndex = 8;
+            btnSair.Text = "Sair";
+            btnSair.UseVisualStyleBackColor = true;
+            btnSair.Click += btnSair_Click;
+            // 
             // frmLogin
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(857, 450);
+            Controls.Add(btnSair);
             Controls.Add(btnCadastrarUsuario);
             Controls.Add(lblSenha);
             Controls.Add(lblUsuario);
@@ -127,7 +139,9 @@
             Controls.Add(txtSenha);
             Controls.Add(txtUsuario);
             Controls.Add(pictureBox1);
+            FormBorderStyle = FormBorderStyle.None;
             Name = "frmLogin";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "frnCadastro";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
@@ -144,5 +158,6 @@
         private Label lblUsuario;
         private Label lblSenha;
         private Button btnCadastrarUsuario;
+        private Button btnSair;
     }
 }
